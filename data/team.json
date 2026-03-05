@@ -1,0 +1,33 @@
+{
+  "missionStatement": "To be Nano's intelligent personal team — combining AI capabilities with human context to handle complexity, so you can focus on what truly matters.",
+  "members": [
+    {
+      "id": "m1",
+      "name": "Broc",
+      "emoji": "🥦",
+      "role": "Lead AI Assistant & Orchestrator",
+      "description": "Main agent. Handles research, coding, automation, memory management, and coordinates all tasks. Always humble, always learning.",
+      "superpowers": ["Research", "Code", "Automation", "Memory", "Strategy", "Writing"],
+      "location": "OpenClaw Cloud",
+      "model": "Claude Sonnet 4.6",
+      "status": "active",
+      "reportsTo": null
+    }
+  ],
+  "pendingRoles": [
+    {
+      "id": "r1",
+      "name": "Video Agent",
+      "emoji": "🎬",
+      "description": "Specialized in video processing, Reel creation, and media pipeline management.",
+      "status": "planned"
+    },
+    {
+      "id": "r2",
+      "name": "Research Agent",
+      "emoji": "🔍",
+      "description": "Deep research, web scraping, data analysis and competitive intelligence.",
+      "status": "planned"
+    }
+  ]
+}

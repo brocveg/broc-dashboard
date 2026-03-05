@@ -1,0 +1,46 @@
+[
+  {
+    "id": "p1",
+    "name": "Gmail Checker",
+    "category": "Automation",
+    "status": "active",
+    "progress": 70,
+    "description": "GAS-based email checker that monitors inbox and notifies Nano via Telegram. Scheduled checks at noon and 9pm Costa Rica time, plus manual trigger.",
+    "startDate": "2026-03-02",
+    "color": "#4cb782",
+    "tags": ["GAS", "Gmail", "Telegram", "Automation"]
+  },
+  {
+    "id": "p2",
+    "name": "Mission Control Dashboard",
+    "category": "Infrastructure",
+    "status": "in-progress",
+    "progress": 80,
+    "description": "Next.js dashboard for tracking tasks (Kanban), projects, memory, docs and team. Linear-inspired design. Hosted on GitHub Pages.",
+    "startDate": "2026-03-04",
+    "color": "#5e6ad2",
+    "tags": ["Next.js", "Dashboard", "TypeScript"]
+  },
+  {
+    "id": "p3",
+    "name": "Workspace Foundation",
+    "category": "Infrastructure",
+    "status": "complete",
+    "progress": 100,
+    "description": "OpenClaw setup, identity configuration, GitHub repository, SOUL/USER/TOOLS/MEMORY files. The base layer for everything else.",
+    "startDate": "2026-03-01",
+    "color": "#8b8b8b",
+    "tags": ["OpenClaw", "GitHub", "Config"]
+  },
+  {
+    "id": "p4",
+    "name": "Media Processing Pipeline",
+    "category": "Creative",
+    "status": "planned",
+    "progress": 0,
+    "description": "Photo (RAW) and video processing capabilities. FFmpeg for video, ImageMagick/rawpy for photos. Instagram Reel creation workflow.",
+    "startDate": "2026-03-04",
+    "color": "#f2c94c",
+    "tags": ["FFmpeg", "Video", "Photos", "Instagram"]
+  }
+]

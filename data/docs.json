@@ -1,0 +1,52 @@
+[
+  {
+    "id": "d1",
+    "title": "GAS Email Checker — Setup & Configuration",
+    "category": "Technical",
+    "tags": ["GAS", "Gmail", "Setup"],
+    "summary": "Complete setup guide for the Google Apps Script email checker. Includes script code, deployment steps, trigger configuration, and Telegram bot integration.",
+    "file": "gas-email-checker.gs",
+    "createdAt": "2026-03-02",
+    "updatedAt": "2026-03-02"
+  },
+  {
+    "id": "d2",
+    "title": "Broc Identity & Soul Configuration",
+    "category": "Configuration",
+    "tags": ["Identity", "Config", "SOUL"],
+    "summary": "Core identity files: SOUL.md (personality and values), IDENTITY.md (name, vibe, emoji), USER.md (Nano's preferences and communication codes).",
+    "file": "SOUL.md",
+    "createdAt": "2026-03-01",
+    "updatedAt": "2026-03-02"
+  },
+  {
+    "id": "d3",
+    "title": "Workspace Tools & Integrations Reference",
+    "category": "Reference",
+    "tags": ["Tools", "Integrations", "Reference"],
+    "summary": "TOOLS.md — local notes on Gmail Checker config, secret tokens, GAS Web App URL, Telegram chat IDs, and scheduled check times.",
+    "file": "TOOLS.md",
+    "createdAt": "2026-03-01",
+    "updatedAt": "2026-03-02"
+  },
+  {
+    "id": "d4",
+    "title": "Mission Control Dashboard Migration",
+    "category": "Infrastructure",
+    "tags": ["Dashboard", "GitHub", "Migration"],
+    "summary": "Migration of Mission Control Dashboard from local Next.js to GitHub Pages. Includes static export setup and deployment configuration.",
+    "file": "migration-guide.md",
+    "createdAt": "2026-03-04",
+    "updatedAt": "2026-03-04"
+  },
+  {
+    "id": "d5",
+    "title": "OpenClaw Security & Agent Guidelines",
+    "category": "Security",
+    "tags": ["Security", "Guidelines", "OpenClaw"],
+    "summary": "Security considerations: prompt injection risks, agent permissions, token management, when to ask before acting. Based on AGENTS.md guidelines.",
+    "file": "AGENTS.md",
+    "createdAt": "2026-03-01",
+    "updatedAt": "2026-03-01"
+  }
+]
