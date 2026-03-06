@@ -1,14 +1,14 @@
 [
-  { "id": "t1", "title": "Review and approve GAS trigger configuration", "status": "review", "priority": "high", "project": "Gmail Checker", "assignee": "Nano", "createdAt": "2026-03-02" },
-  { "id": "t2", "title": "Set up GitHub repository (broc-workspace)", "status": "done", "priority": "high", "project": "Workspace Foundation", "assignee": "Broc", "createdAt": "2026-03-01" },
-  { "id": "t3", "title": "Configure Gmail Checker GAS script", "status": "done", "priority": "high", "project": "Gmail Checker", "assignee": "Broc", "createdAt": "2026-03-02" },
-  { "id": "t4", "title": "Configure Telegram bot connection", "status": "done", "priority": "high", "project": "Gmail Checker", "assignee": "Broc", "createdAt": "2026-03-02" },
-  { "id": "t5", "title": "Build Mission Control Dashboard", "status": "in-progress", "priority": "high", "project": "Mission Control", "assignee": "Broc", "createdAt": "2026-03-04" },
-  { "id": "t6", "title": "Install and configure FFmpeg for video processing", "status": "todo", "priority": "medium", "project": "Media Pipeline", "assignee": "Broc", "createdAt": "2026-03-04" },
-  { "id": "t7", "title": "Define email priority rules and filters", "status": "todo", "priority": "medium", "project": "Gmail Checker", "assignee": "Nano", "createdAt": "2026-03-02" },
-  { "id": "t8", "title": "Configure photo RAW editing pipeline", "status": "todo", "priority": "low", "project": "Media Pipeline", "assignee": "Broc", "createdAt": "2026-03-04" },
-  { "id": "t9", "title": "Set up subagent configurations", "status": "backlog", "priority": "low", "project": "Workspace Foundation", "assignee": "Broc", "createdAt": "2026-03-04" },
-  { "id": "t10", "title": "Implement email mark-as-read feature", "status": "backlog", "priority": "low", "project": "Gmail Checker", "assignee": "Broc", "createdAt": "2026-03-02" },
-  { "id": "t11", "title": "Add email reply capability from Telegram", "status": "backlog", "priority": "medium", "project": "Gmail Checker", "assignee": "Broc", "createdAt": "2026-03-02" },
-  { "id": "t12", "title": "Research Pinchtab browser automation integration", "status": "backlog", "priority": "low", "project": "Workspace Foundation", "assignee": "Broc", "createdAt": "2026-03-04" }
+  { "id": "t1", "title": "Review and approve GAS trigger configuration", "status": "in-progress", "priority": "high", "project": "Gmail Checker", "assignee": "Nano", "createdAt": "2026-03-05", "comments": 2, "attachments": 1 },
+  { "id": "t2", "title": "Set up GitHub repository (broc-workspace)", "status": "done", "priority": "high", "project": "Workspace", "assignee": "Broc", "createdAt": "2026-03-04", "comments": 0, "attachments": 0 },
+  { "id": "t3", "title": "Configure Gmail Checker GAS script", "status": "done", "priority": "high", "project": "Gmail Checker", "assignee": "Broc", "createdAt": "2026-03-03", "comments": 1, "attachments": 2 },
+  { "id": "t4", "title": "Configure Telegram bot connection", "status": "done", "priority": "high", "project": "Gmail Checker", "assignee": "Broc", "createdAt": "2026-03-02", "comments": 0, "attachments": 0 },
+  { "id": "t5", "title": "Build Mission Control Dashboard V2", "status": "in-progress", "priority": "high", "project": "Dashboard", "assignee": "Broc", "createdAt": "2026-03-05", "comments": 3, "attachments": 0 },
+  { "id": "t6", "title": "Install and configure FFmpeg for video processing", "status": "todo", "priority": "medium", "project": "Media Pipeline", "assignee": "Broc", "createdAt": "2026-03-01", "comments": 0, "attachments": 0 },
+  { "id": "t7", "title": "Define email priority rules and filters", "status": "todo", "priority": "medium", "project": "Gmail Checker", "assignee": "Nano", "createdAt": "2026-03-02", "comments": 1, "attachments": 0 },
+  { "id": "t8", "title": "Configure photo RAW editing pipeline", "status": "backlog", "priority": "low", "project": "Media Pipeline", "assignee": "Broc", "createdAt": "2026-02-28", "comments": 0, "attachments": 0 },
+  { "id": "t9", "title": "Set up subagent configurations", "status": "backlog", "priority": "low", "project": "Workspace", "assignee": "Broc", "createdAt": "2026-02-25", "comments": 0, "attachments": 0 },
+  { "id": "t10", "title": "Implement email mark-as-read feature", "status": "backlog", "priority": "low", "project": "Gmail Checker", "assignee": "Broc", "createdAt": "2026-02-20", "comments": 2, "attachments": 0 },
+  { "id": "t11", "title": "Add email reply capability from Telegram", "status": "review", "priority": "medium", "project": "Gmail Checker", "assignee": "Broc", "createdAt": "2026-03-01", "comments": 1, "attachments": 1 },
+  { "id": "t12", "title": "Research Pinchtab browser automation integration", "status": "backlog", "priority": "low", "project": "Workspace", "assignee": "Broc", "createdAt": "2026-02-15", "comments": 0, "attachments": 0 }
 ]
