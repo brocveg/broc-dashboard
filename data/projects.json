@@ -18,12 +18,12 @@
     "name": "Mission Control Dashboard",
     "category": "Infrastructure",
     "status": "in-progress",
-    "progress": 85,
+    "progress": 90,
     "emoji": "🎛️",
     "description": "Next.js dashboard for tracking tasks (Kanban), projects, memory, docs and team. Linear-inspired dark design.",
     "startDate": "2026-03-04",
     "color": "#6366f1",
-    "completedTasks": 17,
+    "completedTasks": 18,
     "totalTasks": 20,
     "members": 2
   },
@@ -54,5 +54,19 @@
     "completedTasks": 0,
     "totalTasks": 8,
     "members": 1
+  },
+  {
+    "id": "p5",
+    "name": "Broc Migration Strategy",
+    "category": "Infrastructure",
+    "status": "planned",
+    "progress": 5,
+    "emoji": "🚚",
+    "description": "Migration plan from Clawi.ai to personal VPS. Includes cost analysis ($5-12/mes), dual-agent setup, data sync strategy.",
+    "startDate": "2026-03-07",
+    "color": "#a855f7",
+    "completedTasks": 1,
+    "totalTasks": 6,
+    "members": 2
   }
 ]
